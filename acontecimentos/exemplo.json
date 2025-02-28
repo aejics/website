@@ -1,0 +1,15 @@
+{
+    "titulo": "Exemplo",
+    "texto": "Texto de exemplo, para fazer uma linha nova, uso o <br>. Tem de ser uma linha",
+    "anexos": {
+        "ativado": true,
+        "tipo": "imagens, imagenspequenas, imagenscustom ou youtube",
+        "tamanho": "100, em percentagem para imagenscustom",
+        "video": "id do youtube",
+        "imagens": {
+            "1": "https://i.imgur.com/KDQnyMf.png",
+            "2": "https://i.imgur.com/sojRi1G.png"
+        },
+        "album": "https://imgur.com/a/tbcsbsv"
+    }
+}
